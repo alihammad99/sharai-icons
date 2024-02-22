@@ -1,0 +1,24 @@
+{
+  "name": "sharai-icons",
+  "version": "1.0.0",
+  "description": "Sharai e-commerce platform icons pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihammad99/sharai-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "sharai",
+    "react"
+  ],
+  "author": "Ali Hammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alihammad99/sharai-icons/issues"
+  },
+  "homepage": "https://github.com/alihammad99/sharai-icons#readme"
+}
