@@ -3,11 +3,11 @@ import RegularIcon from "../icons/regular/wallet-1";
 import FilledIcon from "../icons/filled/wallet-1";
 import DuotoneIcon from "../icons/duotone/wallet-1";
 
-interface Props {
+type Props = {
   style: string;
   size?: number;
   color?: string;
-}
+};
 
 const Icon = ({ style = "regular", size = 24, color = "#6E6D99" }: Props) => {
   switch (style) {

@@ -3,7 +3,7 @@ import RegularIcon from "../icons/regular/nut";
 import FilledIcon from "../icons/filled/nut";
 import DuotoneIcon from "../icons/duotone/nut";
 
-interface Props {
+type Props = {
   style: string;
   size?: number;
   color?: string;
